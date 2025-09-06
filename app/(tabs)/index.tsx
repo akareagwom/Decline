@@ -5,6 +5,7 @@ const app = () => {
   return (
     <View>
       <Text>Decline</Text>
+      <Text>Accepted</Text>
     </View>
   )
 }
